@@ -1,0 +1,238 @@
+Country,Continent,continents
+Algeria,Africa,Middle East & North Africa
+Angola,Africa,Sub-Saharan Africa
+Benin,Africa,Sub-Saharan Africa
+Botswana,Africa,Sub-Saharan Africa
+Burkina,Africa,Sub-Saharan Africa
+Burundi,Africa,Sub-Saharan Africa
+Cameroon,Africa,Sub-Saharan Africa
+Cape Verde,Africa,Sub-Saharan Africa
+Central African Republic,Africa,Sub-Saharan Africa
+Chad,Africa,Sub-Saharan Africa
+Comoros,Africa,Sub-Saharan Africa
+Congo,Africa,Sub-Saharan Africa
+"Congo, Rep.",Africa,Sub-Saharan Africa
+Djibouti,Africa,Middle East & North Africa
+Egypt,Africa,Middle East & North Africa
+Equatorial Guinea,Africa,Sub-Saharan Africa
+Eritrea,Africa,Sub-Saharan Africa
+Ethiopia,Africa,Sub-Saharan Africa
+Gabon,Africa,Sub-Saharan Africa
+Gambia,Africa,Sub-Saharan Africa
+Ghana,Africa,Sub-Saharan Africa
+Guinea,Africa,Sub-Saharan Africa
+Guinea-Bissau,Africa,Sub-Saharan Africa
+Ivory Coast,Africa,Sub-Saharan Africa
+Kenya,Africa,Sub-Saharan Africa
+Lesotho,Africa,Sub-Saharan Africa
+Liberia,Africa,Sub-Saharan Africa
+Libya,Africa,Middle East & North Africa
+Madagascar,Africa,Sub-Saharan Africa
+Malawi,Africa,Sub-Saharan Africa
+Mali,Africa,Sub-Saharan Africa
+Mauritania,Africa,Sub-Saharan Africa
+Mauritius,Africa,Sub-Saharan Africa
+Morocco,Africa,Middle East & North Africa
+Mozambique,Africa,Sub-Saharan Africa
+Namibia,Africa,Sub-Saharan Africa
+Niger,Africa,Sub-Saharan Africa
+Nigeria,Africa,Sub-Saharan Africa
+Rwanda,Africa,Sub-Saharan Africa
+Sao Tome and Principe,Africa,Sub-Saharan Africa
+Senegal,Africa,Sub-Saharan Africa
+Seychelles,Africa,Sub-Saharan Africa
+Sierra Leone,Africa,Sub-Saharan Africa
+Somalia,Africa,Sub-Saharan Africa
+South Africa,Africa,Sub-Saharan Africa
+South Sudan,Africa,Sub-Saharan Africa
+Sudan,Africa,Sub-Saharan Africa
+Swaziland,Africa,Sub-Saharan Africa
+Tanzania,Africa,Sub-Saharan Africa
+Togo,Africa,Sub-Saharan Africa
+Tunisia,Africa,Middle East & North Africa
+Uganda,Africa,Sub-Saharan Africa
+Zambia,Africa,Sub-Saharan Africa
+Zimbabwe,Africa,Sub-Saharan Africa
+Afghanistan,Asia,South Asia
+Bahrain,Asia,Middle East & North Africa
+Bangladesh,Asia,South Asia
+Bhutan,Asia,South Asia
+Brunei,Asia,East Asia & Pacific
+Burma (Myanmar),Asia,East Asia & Pacific
+Cambodia,Asia,East Asia & Pacific
+China,Asia,East Asia & Pacific
+East Timor,Asia,East Asia & Pacific
+India,Asia,South Asia
+Indonesia,Asia,East Asia & Pacific
+Iran,Asia,Middle East & North Africa
+Iraq,Asia,Middle East & North Africa
+Israel,Asia,Middle East & North Africa
+Japan,Asia,East Asia & Pacific
+Jordan,Asia,Middle East & North Africa
+Kazakhstan,Asia,Europe & Central Asia
+"Korea, North",Asia,East Asia & Pacific
+"Korea, South",Asia,East Asia & Pacific
+Kuwait,Asia,Middle East & North Africa
+Kyrgyzstan,Asia,Europe & Central Asia
+Laos,Asia,East Asia & Pacific
+Lebanon,Asia,Middle East & North Africa
+Malaysia,Asia,East Asia & Pacific
+Maldives,Asia,South Asia
+Mongolia,Asia,East Asia & Pacific
+Nepal,Asia,South Asia
+Oman,Asia,Middle East & North Africa
+Pakistan,Asia,South Asia
+Philippines,Asia,East Asia & Pacific
+Qatar,Asia,Middle East & North Africa
+Russian Federation,Asia,Middle East & North Africa
+Saudi Arabia,Asia,Middle East & North Africa
+Singapore,Asia,East Asia & Pacific
+Sri Lanka,Asia,South Asia
+Syria,Asia,Middle East & North Africa
+Tajikistan,Asia,Europe & Central Asia
+Thailand,Asia,East Asia & Pacific
+Turkey,Asia,Europe & Central Asia
+Turkmenistan,Asia,Europe & Central Asia
+United Arab Emirates,Asia,Middle East & North Africa
+Uzbekistan,Asia,Europe & Central Asia
+Vietnam,Asia,East Asia & Pacific
+Yemen,Asia,Middle East & North Africa
+Albania,Europe,Europe & Central Asia
+Andorra,Europe,Europe & Central Asia
+Armenia,Europe,Europe & Central Asia
+Austria,Europe,Europe & Central Asia
+Azerbaijan,Europe,Europe & Central Asia
+Belarus,Europe,Europe & Central Asia
+Belgium,Europe,Europe & Central Asia
+Bosnia and Herzegovina,Europe,Europe & Central Asia
+Bulgaria,Europe,Europe & Central Asia
+Croatia,Europe,Europe & Central Asia
+Cyprus,Europe,Europe & Central Asia
+Czech Republic,Europe,Europe & Central Asia
+Denmark,Europe,Europe & Central Asia
+Estonia,Europe,Europe & Central Asia
+Finland,Europe,Europe & Central Asia
+France,Europe,Europe & Central Asia
+Georgia,Europe,Europe & Central Asia
+Germany,Europe,Europe & Central Asia
+Greece,Europe,Europe & Central Asia
+Hungary,Europe,Europe & Central Asia
+Iceland,Europe,Europe & Central Asia
+Ireland,Europe,Europe & Central Asia
+Italy,Europe,Europe & Central Asia
+Latvia,Europe,Europe & Central Asia
+Liechtenstein,Europe,Europe & Central Asia
+Lithuania,Europe,Europe & Central Asia
+Luxembourg,Europe,Europe & Central Asia
+Macedonia,Europe,Europe & Central Asia
+Malta,Europe,Europe & Central Asia
+Moldova,Europe,Europe & Central Asia
+Monaco,Europe,Europe & Central Asia
+Montenegro,Europe,Europe & Central Asia
+Netherlands,Europe,Europe & Central Asia
+Norway,Europe,Europe & Central Asia
+Poland,Europe,Europe & Central Asia
+Portugal,Europe,Europe & Central Asia
+Romania,Europe,Europe & Central Asia
+San Marino,Europe,Europe & Central Asia
+Serbia,Europe,Europe & Central Asia
+Slovakia,Europe,Europe & Central Asia
+Slovenia,Europe,Europe & Central Asia
+Spain,Europe,Europe & Central Asia
+Sweden,Europe,Europe & Central Asia
+Switzerland,Europe,Europe & Central Asia
+Ukraine,Europe,Europe & Central Asia
+United Kingdom,Europe,Europe & Central Asia
+Vatican City,Europe,Europe & Central Asia
+Antigua and Barbuda,North America,America
+Bahamas,North America,America
+Barbados,North America,America
+Belize,North America,America
+Canada,North America,America
+Costa Rica,North America,America
+Cuba,North America,America
+Dominica,North America,America
+Dominican Republic,North America,America
+El Salvador,North America,America
+Grenada,North America,America
+Guatemala,North America,America
+Haiti,North America,America
+Honduras,North America,America
+Jamaica,North America,America
+Mexico,North America,America
+Nicaragua,North America,America
+Panama,North America,America
+Saint Kitts and Nevis,North America,America
+Saint Lucia,North America,America
+Saint Vincent and the Grenadines,North America,America
+Trinidad and Tobago,North America,America
+United States,North America,America
+Australia,Oceania,East Asia & Pacific
+Fiji,Oceania,East Asia & Pacific
+Kiribati,Oceania,East Asia & Pacific
+Marshall Islands,Oceania,East Asia & Pacific
+Micronesia,Oceania,East Asia & Pacific
+Nauru,Oceania,East Asia & Pacific
+New Zealand,Oceania,East Asia & Pacific
+Palau,Oceania,East Asia & Pacific
+Papua New Guinea,Oceania,East Asia & Pacific
+Samoa,Oceania,East Asia & Pacific
+Solomon Islands,Oceania,East Asia & Pacific
+Tonga,Oceania,East Asia & Pacific
+Tuvalu,Oceania,East Asia & Pacific
+Vanuatu,Oceania,East Asia & Pacific
+Argentina,South America,America
+Bolivia,South America,America
+Brazil,South America,America
+Chile,South America,America
+Colombia,South America,America
+Ecuador,South America,America
+Guyana,South America,America
+Paraguay,South America,America
+Peru,South America,America
+Suriname,South America,America
+Uruguay,South America,America
+Venezuela,South America,America
+Aruba,North America,America
+"Bahamas, The",North America,America
+Bermuda,North America,America
+Brunei Darussalam,Oceania,East Asia & Pacific
+Burkina Faso,Africa,Sub-Saharan Africa
+Cayman Islands,North America,America
+Channel Islands,Europe,Europe & Central Asia
+"Congo, Dem. Rep.",Africa,Sub-Saharan Africa
+Cote d'Ivoire,Africa,Sub-Saharan Africa
+Curacao,South America,America
+"Egypt, Arab Rep.",Africa,Middle East & North Africa
+"Gambia, The",Africa,Sub-Saharan Africa
+Gibraltar,Asia,Europe & Central Asia
+Greenland,Europe,Europe & Central Asia
+Guam,Oceania,East Asia & Pacific
+"Hong Kong SAR, China",Asia,East Asia & Pacific
+"Iran, Islamic Rep.",Asia,Middle East & North Africa
+Isle of Man,Europe,Europe & Central Asia
+"Korea, Rep.",Asia,East Asia & Pacific
+Kyrgyz Republic,Europe,Europe & Central Asia
+Lao PDR,Oceania,East Asia & Pacific
+"Macao SAR, China",Oceania,East Asia & Pacific
+"Macedonia, FYR",Europe,Europe & Central Asia
+"Micronesia, Fed. Sts.",Oceania,East Asia & Pacific
+American Samoa,Oceania,East Asia & Pacific
+Myanmar,Oceania,East Asia & Pacific
+New Caledonia,Oceania,East Asia & Pacific
+Northern Mariana Islands,Oceania,East Asia & Pacific
+Puerto Rico,North America,America
+Sint Maarten (Dutch part),South America,America
+Slovak Republic,Europe,Europe & Central Asia
+St. Kitts and Nevis,South America,America
+St. Lucia,South America,America
+St. Martin (French part),South America,America
+St. Vincent and the Grenadines,South America,America
+Syrian Arab Republic,Asia,Middle East & North Africa
+Timor-Leste,Oceania,East Asia & Pacific
+Turks and Caicos Islands,South America,America
+"Venezuela, RB",South America,America
+Virgin Islands (U.S.),North America,America
+West Bank and Gaza,Asia,Middle East & North Africa
+"Yemen, Rep.",Asia,Middle East & North Africa
+French Polynesia,Oceania,East Asia & Pacific
